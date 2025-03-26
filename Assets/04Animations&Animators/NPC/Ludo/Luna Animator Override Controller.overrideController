@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Luna Animator Override Controller
+  m_Controller: {fileID: 9100000, guid: 5de78e8e6969ec545b2b9d7429c7717f, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 67d35236d0ad13942adfd69b98435f0a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 667058b9e4170bc49aefc9ab72922dab, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6a5fb42393184c4409402d2ca3248839, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 05a8d2acb7330ec40af000474391444c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 02ececfe5a5f7c648a42418279f3c20a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a5c4aa8a4a2634741a257618328ca03e, type: 2}
